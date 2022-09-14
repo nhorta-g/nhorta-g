@@ -3,7 +3,7 @@
 My name is Nuno Grazina, I'm from Lisbon, Portugal, I have a Bachelor's degree in Civil Engineering 
 Currently I'm learning C/C++ at 42 Lisbon School.
 
-https://badge42.vercel.app/api/v2/cl81fny6g00110gmewzxwqh7c/stats?cursusId=21&coalitionId=111
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl81fny6g00110gmewzxwqh7c/stats?cursusId=21&coalitionId=111" alt="nhorta-g's 42 stats" /></a>
 
 - 🌱 I’m currently learning C and have some knoledge of javascript
 - 👯 I’m looking to collabote in any freelance sotfware development
