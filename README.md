@@ -2,6 +2,8 @@
 
 My name is Nuno Grazina, I'm from Lisbon, Portugal, I have a bachelor's degree in Civil Engineering and currently I'm learning C/C++ at 42 Lisbon School.
 
+[![<nhorta-g>'s 42 stats](https://badge.mediaplus.ma/darkblue/<nhorta-g>)](https://github.com/oakoudad/badge42)
+
 [![<nhorta-g>'s 42 stats]
 (https://badge.mediaplus.ma/darkblue/<nhorta-g>)]
 (https://github.com/oakoudad/badge42)
