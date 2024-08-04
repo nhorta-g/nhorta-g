@@ -1,4 +1,4 @@
-## Hello World! 👋
+<h1 Hello World! 👋 /h1>
 
 My name is Nuno Grazina, I'm from Lisbon, Portugal, I have a bachelor's degree in Civil Engineering and currently I'm learning C/C++ at 42 Lisbon School.
 
